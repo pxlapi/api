@@ -1,0 +1,12 @@
+{
+  "options": {
+    "host": "",
+    "auth": {
+      "user": "noreply@pxlapi.dev",
+      "pass": ""
+    }
+  },
+  "defaults": {
+    "from": "\"pxlAPI\" noreply@pxlapi.dev"
+  }
+}

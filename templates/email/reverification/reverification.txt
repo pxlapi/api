@@ -1,0 +1,12 @@
+Hey, {{displayName}}!
+
+You just changed the email address connected to your pxlAPI account.
+Before we get started, we have to make sure this email address actually works.
+Please confirm your email address at the following link: https://pxlapi.dev/verify?token={{verificationToken}}
+
+If you have any questions so far, feel free to email support at support@pxlapi.dev or join our Discord server at https://discord.gg/8hPrwAH.
+
+Thanks,
+pxlAPI
+
+If you believe this email was sent in error, you can just ignore it. No follow up emails will be sent.

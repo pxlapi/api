@@ -1,0 +1,11 @@
+Hey, {{displayName}}!
+
+This is a reminder that your pxlAPI account is running low on credits, with only {{creditsLeft}} credits left.
+
+You have used {{creditsUsed}} credits in {{requestCount}} request in the last {{timespan}}.
+The estimated time for your credits to run out if requests continue to be sent at the same rate is {{timeToDepletion}}.
+
+Please top up your account to avoid service interruption.
+
+Thanks,
+pxlAPI

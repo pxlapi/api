@@ -1,0 +1,7 @@
+Hey, {{displayName}}!
+
+Your pxlAPI account ran out of credits.
+Requests sent by your applications will no longer be processed unless you top up your account.
+
+Thanks,
+pxlAPI

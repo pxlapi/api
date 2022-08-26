@@ -1,0 +1,7 @@
+Hey, {{displayName}}!
+
+The email address connected to your pxlAPI account has just been changed.
+If this was intentional, you can just ignore this email. If you don't remember changing your email address, please contact support via email (support@pxlapi.dev) or our discord server (https://discord.gg/8hPrwAH).
+
+Thanks,
+pxlAPI

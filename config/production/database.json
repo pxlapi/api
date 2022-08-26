@@ -1,0 +1,6 @@
+{
+  "host": "postgres",
+  "user": "pxlapi",
+  "database": "pxlapi",
+  "password": ""
+}

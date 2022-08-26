@@ -1,0 +1,16 @@
+{
+  "name": "pxlAPI",
+  "version": "0.0.0",
+  "description": "pxlAPI Image Processing API",
+  "title": "pxlAPI documentation",
+  "header": {
+    "title": "Introduction",
+    "filename": "./README.md"
+  },
+  "template": {
+    "withCompare": false,
+    "withGenerator": false
+  },
+  "useHostUrlAsSampleUrl": false,
+  "sampleUrl": false
+}

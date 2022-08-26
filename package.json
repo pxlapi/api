@@ -1,0 +1,36 @@
+{
+  "name": "pxlapi",
+  "version": "1.0.0",
+  "description": "pxlAPI Image Manipulation API",
+  "main": "index.js",
+  "scripts": {
+    "docs": "apidoc -i controllers -o ../docs/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxlapi/pxlapi.git"
+  },
+  "author": "Mathis Mensing <matmen@dreadful.tech>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/pxlapi/pxlapi/issues"
+  },
+  "homepage": "https://github.com/pxlapi/pxlapi#readme",
+  "dependencies": {
+    "@sentry/node": "^6.1.0",
+    "bcrypt": "^5.0.0",
+    "form-data": "^3.0.1",
+    "http-proxy-agent": "^4.0.1",
+    "https-proxy-agent": "^5.0.0",
+    "imagescript": "^1.2.9",
+    "isolated-vm": "^4.1.1",
+    "node-fetch": "^2.6.1",
+    "nodemailer": "^6.4.17",
+    "pg": "^8.5.1",
+    "playwright": "^1.7.1",
+    "redis": "^3.0.2",
+    "stripe": "^8.137.0",
+    "ws": "^7.4.2"
+  }
+}

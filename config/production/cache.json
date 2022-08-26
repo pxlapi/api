@@ -1,0 +1,4 @@
+{
+  "host": "redis",
+  "prefix": "pxlapi:"
+}

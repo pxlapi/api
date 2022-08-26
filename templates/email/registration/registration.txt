@@ -1,0 +1,12 @@
+Hey, {{displayName}}!
+
+Thanks for signing up for pxlAPI.
+Before we get started, we have to make sure this email address actually works.
+Please confirm your email address at the following link: https://pxlapi.dev/verify?token={{verificationToken}}
+
+If you have any questions so far, feel free to email support at support@pxlapi.dev or join our Discord server at https://discord.gg/8hPrwAH.
+
+If it wasn't you who signed up, you can just ignore this email. No follow up emails will be sent.
+
+Thanks,
+pxlAPI
