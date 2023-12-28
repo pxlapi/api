@@ -58,9 +58,9 @@ class WebSearch extends Controller {
 		if(!keyRequest.ok)
 			context.badRequest('Search Engine returned an error');
 
-		const key = (await keyRequest.text()).match(/vqd='([\s\S]+?)'/)?.[1];
+		const key = (await keyRequest.text()).match(/vqd="([\s\S]+?)"/)?.[1];
 		if(!key)
-			context.badRequest('Search Engine returned an error');
+			return context.badRequest('Search Engine returned an error');
 
 		const queryString = Object.entries({
 			q: query,
