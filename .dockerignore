@@ -1,1 +1,7 @@
 node_modules/
+.ci/
+.dockerignore
+.gitignore
+apidoc.json
+Dockerfile
+README.md

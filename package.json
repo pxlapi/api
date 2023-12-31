@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/pxlapi/pxlapi.git"
   },
-  "author": "Mathis Mensing <matmen@dreadful.tech>",
+  "author": "Mathis Mensing <mathis@matmen.dev>",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/pxlapi/pxlapi/issues"
@@ -24,11 +24,11 @@
     "http-proxy-agent": "^4.0.1",
     "https-proxy-agent": "^5.0.0",
     "imagescript": "^1.2.9",
-    "isolated-vm": "^4.1.1",
+    "isolated-vm": "^4.6.0",
     "node-fetch": "^2.6.1",
-    "nodemailer": "^6.4.17",
+    "nodemailer": "^6.9.8",
     "pg": "^8.5.1",
-    "playwright": "^1.7.1",
+    "playwright": "^1.40.1",
     "redis": "^3.0.2",
     "stripe": "^8.137.0",
     "ws": "^7.4.2"
